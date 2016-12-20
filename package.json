@@ -1,0 +1,32 @@
+{
+  "name": "baidu-segmentation",
+  "version": "1.0.0",
+  "description": "基于百度apistore的中文分词系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xialeistudio/node-baidu-segmentation.git"
+  },
+  "keywords": [
+    "segmentation",
+    "chinese segmentation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xialeistudio/node-baidu-segmentation/issues"
+  },
+  "homepage": "https://github.com/xialeistudio/node-baidu-segmentation#readme",
+  "devDependencies": {
+    "eslint": "^3.12.2",
+    "mocha": "^3.2.0",
+    "should": "^11.1.2"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "node-fetch": "^1.6.3"
+  }
+}
