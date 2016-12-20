@@ -1,0 +1,2 @@
+# baidu-segmentation
+基于百度apistore的中文分词系统
